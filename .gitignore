@@ -1,0 +1,6 @@
+*.pyc
+
+venv
+smmf.egg-info
+data
+results
