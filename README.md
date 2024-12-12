@@ -1,6 +1,6 @@
-# [AAAI 2025 Submission] SMMF: Square-Matricized Momentum Factorization for Memory-Efficient Optimization
+# [AAAI 2025] SMMF: Square-Matricized Momentum Factorization for Memory-Efficient Optimization
 
-## Code implementation of [AAAI 2025 Submission] SMMF: Square-Matricized Momentum Factorization for Memory-Efficient Optimization
+## Code implementation of [AAAI 2025] SMMF: Square-Matricized Momentum Factorization for Memory-Efficient Optimization
 * Code is based on the below algorithms in the paper.
   * Brief SMMF
   * Square-Matricization
