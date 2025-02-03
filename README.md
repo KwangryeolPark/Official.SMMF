@@ -1,4 +1,6 @@
 # [AAAI 2025] SMMF: Square-Matricized Momentum Factorization for Memory-Efficient Optimization
+* <img src="https://img.shields.io/badge/arXiv?style=flat&logo=arXiv&logoColor=white"/>: https://arxiv.org/abs/2412.08894
+* YouTube: https://www.youtube.com/watch?v=mxDH4D4622I
 
 ## Code implementation of [AAAI 2025] SMMF: Square-Matricized Momentum Factorization for Memory-Efficient Optimization
 * Code is based on the below algorithms in the paper.
