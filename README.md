@@ -1,6 +1,9 @@
 # [AAAI 2025] SMMF: Square-Matricized Momentum Factorization for Memory-Efficient Optimization
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/arXiv:2412.08894-B31B1B?style=flat&logo=arXiv&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> <img src="https://img.shields.io/badge/AAAI25:3503-3776AB?style=flat"/>
 
+* This repository is forked version. You can visit our official SMMF code:
+
+* Original Official GitHub: https://github.com/eai-lab/SMMF
 * arXiv: https://arxiv.org/abs/2412.08894
 * YouTube: https://www.youtube.com/watch?v=mxDH4D4622I
 
